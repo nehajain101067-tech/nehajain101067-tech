@@ -160,7 +160,7 @@ Optimized pipelines in Databricks that **improved data refresh rates by 40%** fo
 I'm always open to discussing data strategy, experimentation design, or AI/ML applications in product analytics.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainnneha)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehajain.101067@gmail.com)
+
 
 ---
 
