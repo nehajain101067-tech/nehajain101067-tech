@@ -5,8 +5,6 @@
 ### Senior Data Analyst · Experimentation & Causal Inference · BI & Visualization · Python & SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jainnneha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainnneha)
-[![Email](https://img.shields.io/badge/Email-nehajain.101067%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehajain.101067@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Milpitas%2C%20CA-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Milpitas,CA)
 
 </div>
 
